@@ -4,6 +4,7 @@
 // undefined = false
 // false = false
 // 0 = false
+
 //truthy
 //'0', " ", [];
 
