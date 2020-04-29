@@ -22,4 +22,6 @@ const arr = [2, 3, 4, 5, 6, 7, 8];
 
 
 const bigger = arr.filter(x => x > 5);
-console.log(bigger)
+
+const isThere = arr.find(x => x > 5);
+console.log(isThere)
