@@ -50,7 +50,7 @@
 
 // console.log(squares);
 
-const arr = [2, 4, 5, 6, 7, 8];
+// const arr = [2, 4, 5, 6, 7, 8];
 
 // const squares = arr.map(function(value){
 //     return value * value;
@@ -64,5 +64,15 @@ const arr = [2, 4, 5, 6, 7, 8];
 // const smaller = arr.find(x => x > 6);
 // console.log(smaller)
 
-const biggers = arr.filter(value => value > 4);
-console.log(biggers)
+// const biggers = arr.filter(value => value > 4);
+// console.log(biggers)
+
+// const arr = [1, 3, 4, 5, 6, 7, 8];
+// const part = arr.slice(3, 6);
+// const remove = arr.splice(1, 3);
+// // console.log(arr)
+// console.log(remove);
+
+// const together = arr.join(',');
+// console.log(together)
+
